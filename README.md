@@ -48,4 +48,4 @@ Feel free to customize this portfolio template to make it your own! Here are a f
 
 ## Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/er-anubhav/). You can also visit [my website](https://anubhav-er-portfolio.netlify.app/)https://anubhav-er-portfolio.netlify.app/) to learn more about me and my work.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/er-anubhav/). You can also visit https://anubhav-er-portfolio.netlify.app/ to learn more about me and my work.
